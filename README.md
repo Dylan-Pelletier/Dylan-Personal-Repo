@@ -94,3 +94,9 @@ _TODO: Answer the following questions to fill in the blanks:_
 - You update the hosts file to run on specific IP's.
 - _Which URL do you navigate to in order to check that the ELK server is running?
 - http://20.70.10.141:5601/app/kibanato 
+
+The following screenshot displays the results of successfully installing the beats:
+
+[Filebeat](https://github.com/Dylan-Pelletier/Dylan-Personal-Repo/blob/main/Filebeat%20kibana%20screenshot.png)
+[Metricbeat](https://github.com/Dylan-Pelletier/Dylan-Personal-Repo/blob/main/Correct%20Kibana%20Metricbeat%20data.png)
+
